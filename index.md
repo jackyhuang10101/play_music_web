@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
-- asdfasdf
-- sadfasdf
+title: asdfasdf
+title: sadfasdf
 ### asdfasdfasdffasdf
 ---
